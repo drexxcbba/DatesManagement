@@ -1,10 +1,12 @@
 # Patients managmet project
 
-This is project a project to manage patient's dates
+This is a project to manage patient's dates
 
 ## How to explore it
 
 ### clone repository
+
+### `npm install`
 
 ### `npm start`
 
